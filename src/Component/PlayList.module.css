@@ -1,0 +1,22 @@
+.playlist{
+   
+    background-color: aqua;
+    border: 5px solid black; /* Added a solid border */
+   justify-content: start;
+    margin-top: 0%; /* Added margin top */
+    margin-left: 0%;
+    padding: 1px; /* Added padding */
+    text-align: left;
+}
+.playlist ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .playlist li {
+    cursor: pointer;
+  }
+  
+  .playlist li:hover {
+    background-color: #7fffd4; /* Change background color on hover */
+  }
