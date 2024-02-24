@@ -1,4 +1,4 @@
-// Playlist.js
+
 import React from 'react';
 import classes from './PlayList.module.css'
 const Playlist = ({ playlist, handlePlayTrack }) => {
